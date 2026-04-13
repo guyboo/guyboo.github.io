@@ -1,4 +1,3 @@
-# guyboo.github.io
 [script.js](https://github.com/user-attachments/files/26669306/script.js)
 /* ============================================================
    Guyboo — Script
